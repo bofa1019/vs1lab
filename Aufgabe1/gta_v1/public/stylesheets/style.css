@@ -27,7 +27,7 @@ footer{
   position: relative; 
 }
 
-.raw::after{
+.row::after{
   content: " ";
   clear: both;
   display: flex;
